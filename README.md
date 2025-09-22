@@ -83,4 +83,4 @@
 ---
 * **STM32 Code**: [`./STM32_Code`](https://github.com/bbangx2/intel_mini_project_1/tree/470351239bbd249337618bbd2e411f06a66c086b/1.%EC%BD%94%EB%93%9C/STM32)
 * **Arduino Code**: [`./Arduino_Code`](https://github.com/bbangx2/intel_mini_project_1/tree/470351239bbd249337618bbd2e411f06a66c086b/1.%EC%BD%94%EB%93%9C/arduinio/mini_project)
-* **Server Code**: [Raspberry Pi Server Code Link](https://github.com/bbangx2/Intel_mini_project_1/tree/7bd3a93b2db8a3547e7e12849eddb72e5409e7c0/1.%EC%BD%94%EB%93%9C/Raspberry%20Pi)
+* **Server Code**: [`./Server_Code`](https://github.com/bbangx2/Intel_mini_project_1/tree/7bd3a93b2db8a3547e7e12849eddb72e5409e7c0/1.%EC%BD%94%EB%93%9C/Raspberry%20Pi)
