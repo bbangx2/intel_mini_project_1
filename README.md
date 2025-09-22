@@ -85,4 +85,4 @@
 
 * **STM32 Code**: `./STM32_Code`
 * **Arduino Code**: `./Arduino_Code`
-* **Server Code**: `1.코드/Raspberry Pi
+* **Server Code**: https://github.com/bbangx2/intel_mini_project_1/tree/7bd3a93b2db8a3547e7e12849eddb72e5409e7c0/1.%EC%BD%94%EB%93%9C/Raspberry%20Pi
