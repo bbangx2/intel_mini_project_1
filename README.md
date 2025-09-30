@@ -3,9 +3,12 @@
 **Team Members: 진재우, 황경태**
 
 ## 시연 영상
-* 1. 서버 영상
- https://github.com/user-attachments/assets/467878af-8640-4339-8164-5f9b58492ad7
-  2. 실제 동작 영상
+1. 서버 영상
+
+https://github.com/user-attachments/assets/467878af-8640-4339-8164-5f9b58492ad7
+
+3. 실제 동작 영상
+   
 https://github.com/user-attachments/assets/250f0b2e-89de-47fa-811a-8be58086f79a
 
 ## 📖 프로젝트 소개
